@@ -1,0 +1,1 @@
+This repo is dedicated to all my solutions from projecteuler.net!
